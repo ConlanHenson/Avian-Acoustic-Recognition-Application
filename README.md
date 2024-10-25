@@ -1,5 +1,6 @@
 PROJECT TITLE: Avian Acoustic Recognition Applications
 AUTHOR: Donaghy "Conlan" Henson
+LINK TO RESEARCH PAPER: https://docs.google.com/document/d/163rSDiUe3WIRhIknKmJWnWMACgae_9xV/edit?usp=sharing&ouid=117098671256603956446&rtpof=true&sd=true
 
 #####################
 
